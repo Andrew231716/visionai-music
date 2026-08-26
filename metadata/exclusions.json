@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-26",
+  "policy": "Le esclusioni prudenziali prevalgono sull'obiettivo quantitativo; nessun contenuto segnalato o di provenienza ambigua entra nel catalogo.",
+  "items": [
+    {
+      "title": "Morning Rain",
+      "sourceUrl": "https://opengameart.org/content/lofi-compilation",
+      "status": "excluded",
+      "reason": "Esclusione prudenziale: nei commenti della pagina primaria e' presente una segnalazione di Content ID e somiglianza quasi identica con un'altra registrazione.",
+      "checkedAt": "2026-08-26"
+    },
+    {
+      "title": "42 Monster RPG 2 music tracks",
+      "sourceUrl": "https://opengameart.org/content/42-monster-rpg-2-music-tracks",
+      "status": "excluded",
+      "reason": "Esclusione prudenziale: la pagina mostra CC0, ma non identifica con sufficiente chiarezza l'artista originale da registrare per ogni singolo file secondo i requisiti VisionAI.",
+      "checkedAt": "2026-08-26"
+    },
+    {
+      "title": "jungle_ambience",
+      "sourceUrl": "https://opengameart.org/content/42-monster-rpg-2-music-tracks",
+      "status": "excluded",
+      "reason": "La stessa fonte dichiara che il file non e' originale; non e' stato incluso ne' utilizzato.",
+      "checkedAt": "2026-08-26"
+    }
+  ]
+}
